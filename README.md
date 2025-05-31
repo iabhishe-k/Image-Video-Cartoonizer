@@ -84,8 +84,3 @@ python cartoonizer.py --video 'video_path'
 
 - For videos, the cartoonized output plays in a window; press `d` to quit.
 - The default number of color clusters for images is 9, for video is 7. You can modify this in the code if needed.
-
----
-
-
-Feel free to contribute or report issues!
